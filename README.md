@@ -7,9 +7,7 @@ My projects consist of my studies and portfolio, have fun !!.
 )
 
 # 👋 Lets connect
-Hi there, I am [Yu](https://www.yushi.dev/)
-
-![Linkedin](https://www.linkedin.com/in/otavio-emilio/, https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Hi there, I am [[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-emilio/)
 
 
 
