@@ -7,6 +7,6 @@ My projects consist of my studies and portfolio, have fun !!.
 
 
 
-![github](https://badgen.net/badge/:github/:knowledge/:color?icon=github)
+![github](https://badgen.net/badge/github/knowledge/:color?icon=github)
 
 
