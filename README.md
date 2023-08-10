@@ -8,7 +8,8 @@ My projects consist of my studies and portfolio, have fun !!.
 
 # Lets connect
 
-<a href=”https://www.linkedin.com/in/otavio-emilio/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+![Linkedin]([https://www.linkedin.com/in/otavio-emilio/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
+
 
 
 
