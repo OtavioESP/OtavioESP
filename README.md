@@ -8,7 +8,7 @@ My projects consist of my studies and portfolio, have fun !!.
 
 # Lets connect
 
-![Linkedin]([https://www.linkedin.com/in/otavio-emilio/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
+[Linkedin]([https://www.linkedin.com/in/otavio-emilio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
 
 
 
