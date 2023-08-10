@@ -7,7 +7,7 @@
   Full-Stack developer Web Developer.
 </h2>
 
- Currently main focused on studing Python and TypeScript. My projects consist of my studies and portfolio, have fun !!.
+ 💻 Currently main focused on studing Python 🐍 and TypeScript 🟦. My projects consist of my studies and portfolio, have fun !!.
 
 </br>
 
