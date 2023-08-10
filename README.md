@@ -8,6 +8,6 @@ My projects consist of my studies and portfolio, have fun !!.
 
 
 ![github](https://badgen.net/badge/github/knowledge/:color?icon=github)
-![](https://badgen.net/badge/github/Advanced/blue?icon=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
