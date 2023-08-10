@@ -1,32 +1,29 @@
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
-</h2> 
-
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
 <h3 align="center"> 
-Howdy, I'm Otavio. 👋
+  Howdy, I'm Otavio. 👋
 </h3>
 <h2 align="center">
   
-Full-Stack developer Web Developer. Currently main focused on studing Python and TypeScript.
-My projects consist of my studies and portfolio, have fun !!.
-
+  Full-Stack developer Web Developer.
 </h2>
 
-### 💼 Working skills and proficiency
+ Currently main focused on studing Python and TypeScript. My projects consist of my studies and portfolio, have fun !!.
+
+</br>
+
+## 🔭 I'm currently working on
+- My current job as Full-Stack Web Developer
+- My projects for practicing new frameworks
+- Studying Software Architecture
+
+</br>
+
+## 💼 Working skills and proficiency
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)    ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-💼badge&logo=node.js&logoColor=white)    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)     ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 )
+
+</br>
 
 ### 🤝 Lets connect
 
