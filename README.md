@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-  Howdy, I'm Otavio. 👋
+  Howdy 🤠, I'm Otavio. 👋
 </h3>
 <h2 align="center">
   
