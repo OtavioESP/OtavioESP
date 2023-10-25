@@ -4,7 +4,7 @@
 </h3>
 <h2 align="center">
   
-  Full-Stack developer Web Developer.
+  Full-Stack developer and Systems Analyst.
 </h2>
 
  💻 Currently main focused on studing Python 🐍 and TypeScript 🟦. My projects consist of my studies and portfolio, have fun !!.
